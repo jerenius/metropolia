@@ -33,12 +33,12 @@ app.get("/api/customers/:id", (req, res) => {
 // POST /api/customers
 // Add new customer
 app.post("/api/customers", (req, res) => { 
-    var id = Date.now();
-    id =  "${id}"
-    var newcustomer = {...req.body};
+    var id = '"' + Date.now() + '"'
+    id = id.replace(/\"/g, '');
+    var newcustomer = {'id': id,...req.body};
     const index = customers.length
-    //customers.splice(index , 1, newcustomer); 
-    res.json(id);
+    customers.splice(index , 1, newcustomer); 
+    res.json(newcustomer);
     })
 
   // PUT /api/customers/{id}
