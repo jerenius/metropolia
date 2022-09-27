@@ -9,16 +9,7 @@ const port = 3000;
 
 
 
-// Get all movies
-app.get("/api/movies", query.getAllMovies)
-
-
-
-
-
- // Get movie by id
-app.get("/api/movies/:id", query.getMovieById)
-   
+app.get("/api/movies", query.getAllMovies);
 
 
 app.listen(port, () => {
