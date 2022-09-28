@@ -23,7 +23,7 @@ describe('/POST customers', () => {
     done();
   });
 
-  it('Add new movie', (done) => {
+  it('Add new customer', (done) => {
     chai.request(app)
       .post('/api/customers')
       .set('Content-Type', 'application/json')
@@ -35,5 +35,19 @@ describe('/POST customers', () => {
         res.body.should.have.property('lastname');
         done();
        });
+  });
+});
+
+
+describe('/GET customers', () => {
+  it('Fetch all customers', (done) => {
+    chai.request(app)
+      .get('/api/customers') 
+      .end((err, res) => {
+         res.should.have.status(200);
+         res.body.should.be.a('array');
+         res.body.length.should.be.eql(1);
+         done();
+      });
   });
 });
