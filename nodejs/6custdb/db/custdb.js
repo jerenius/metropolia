@@ -82,6 +82,14 @@ const updateCustomer = (req, res) => {
     res.json(editedCustomer);
   }
 
+  // Delete all movies
+const deleteAllMovies = () => {
+  db.query('DELETE FROM customers', (err, res) => {
+    if (err) {
+      return console.error('Error executing query', err.stack)
+    }
+  })
+}
 
 
 module.exports = {
@@ -89,5 +97,6 @@ module.exports = {
   getCustomerById: getCustomerById,
   addCustomer: addCustomer,
   deleteCustomer: deleteCustomer,
-  updateCustomer: updateCustomer
+  updateCustomer: updateCustomer,
+  deleteAllMovies: deleteAllMovies
 }
