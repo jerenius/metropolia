@@ -1,0 +1,20 @@
+	<div class="diamond">
+			<p>"Rails-singulariteetti" on tavallinen termi Ruby-
+työkalujen ja ympäristöjen keskuudessa. Se tarkoittaa kehitysympäristölle 
+yhteensopivuustasoa, jolla ympäristö pystyy toteuttamaan Ruby on Rails-kehyksen 
+toiminnot. Näitä kehitysympäristöjä ei ole montaa. </p>
+		</div>
+<p>Rubyn suunnittelun lähtökohtana on ollut käytettävyys ja tehokkuus. Kielen
+alkuperäinen suunnittelija, Yukihiro Matsumoto, onkin korostanut tätä ajatusta 
+toteamalla, että perinteinen ohjelmointitapa pyrkii selittämään asioita 
+tietokoneen ymmärtämällä tavalla huolimatta siitä, että loppujenlopuksi 
+tietokoneen tulisi ainoastaan olla laite, jonka avulla ihmiset voivat hyödyntää 
+toistensa tekemää työtä. </p>
+	<p>Ruby-ohjelmointikielen vahvuus on sen ohjelmistokehyksissä, 
+frameworkeissa, joiden avulla kielellä voidaan toteuttaa useita erilaisia 
+projekteja helposti. Näistä yleisimmin tunnettu onkin Ruby on Rails.Itse 
+asiassa, Ruby on Rails-ympäristöä voidaan pitää itse Ruby-kieltä tunnetumpana 
+järjestelmänä, jonka avulla melko marginaalisessa käytössä ollut tulkattava 
+ohjelmointikieli päätyi ohjelmointialan kuumaksi puheenaiheeksi. Rails-kehyksen 
+vaikutus onkin niin voimakas, että se usein ohjaa Ruby-kielelle tarkoitettujen 
+työkalujen kehitystä.</p>

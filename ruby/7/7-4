@@ -1,0 +1,25 @@
+module MuuntajaModuuli
+    def muunna(teksti)
+        teksti = teksti.gsub("i","*")
+        teksti = teksti.gsub("s","_")
+        teksti = teksti.gsub("h","-")
+        puts teksti
+    end
+    def parillinen?(luku)
+        if luku % 2 == 0
+            return true
+        else
+            return false
+        end
+    end
+end 
+ 
+ 
+include MuuntajaModuuli
+
+MuuntajaModuuli::muunna("Vesihiisi sihisee")
+tulos = MuuntajaModuuli::parillinen?(1024)
+    
+if tulos == true
+    puts "Testattu luku oli parillinen!"
+end
