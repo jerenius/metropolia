@@ -1,0 +1,8 @@
+C:\temp\git\metropolia\c#\4\Operaattorit\bin\Debug\Operaattorit.exe.config
+C:\temp\git\metropolia\c#\4\Operaattorit\bin\Debug\Operaattorit.exe
+C:\temp\git\metropolia\c#\4\Operaattorit\bin\Debug\Operaattorit.pdb
+C:\temp\git\metropolia\c#\4\Operaattorit\obj\Debug\Operaattorit.csproj.AssemblyReference.cache
+C:\temp\git\metropolia\c#\4\Operaattorit\obj\Debug\Operaattorit.csproj.SuggestedBindingRedirects.cache
+C:\temp\git\metropolia\c#\4\Operaattorit\obj\Debug\Operaattorit.csproj.CoreCompileInputs.cache
+C:\temp\git\metropolia\c#\4\Operaattorit\obj\Debug\Operaattorit.exe
+C:\temp\git\metropolia\c#\4\Operaattorit\obj\Debug\Operaattorit.pdb

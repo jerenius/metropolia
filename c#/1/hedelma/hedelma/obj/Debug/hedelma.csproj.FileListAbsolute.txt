@@ -1,0 +1,8 @@
+C:\temp\git\metropolia\c#\1\hedelma\hedelma\obj\Debug\hedelma.csproj.AssemblyReference.cache
+C:\temp\git\metropolia\c#\1\hedelma\hedelma\obj\Debug\hedelma.csproj.SuggestedBindingRedirects.cache
+C:\temp\git\metropolia\c#\1\hedelma\hedelma\obj\Debug\hedelma.csproj.CoreCompileInputs.cache
+C:\temp\git\metropolia\c#\1\hedelma\hedelma\bin\Debug\hedelma.exe.config
+C:\temp\git\metropolia\c#\1\hedelma\hedelma\bin\Debug\hedelma.exe
+C:\temp\git\metropolia\c#\1\hedelma\hedelma\bin\Debug\hedelma.pdb
+C:\temp\git\metropolia\c#\1\hedelma\hedelma\obj\Debug\hedelma.exe
+C:\temp\git\metropolia\c#\1\hedelma\hedelma\obj\Debug\hedelma.pdb

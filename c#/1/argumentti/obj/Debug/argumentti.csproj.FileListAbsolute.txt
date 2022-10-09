@@ -1,0 +1,8 @@
+C:\temp\git\metropolia\c#\1\argumentti\bin\Debug\argumentti.exe.config
+C:\temp\git\metropolia\c#\1\argumentti\bin\Debug\argumentti.exe
+C:\temp\git\metropolia\c#\1\argumentti\bin\Debug\argumentti.pdb
+C:\temp\git\metropolia\c#\1\argumentti\obj\Debug\argumentti.csproj.AssemblyReference.cache
+C:\temp\git\metropolia\c#\1\argumentti\obj\Debug\argumentti.csproj.SuggestedBindingRedirects.cache
+C:\temp\git\metropolia\c#\1\argumentti\obj\Debug\argumentti.csproj.CoreCompileInputs.cache
+C:\temp\git\metropolia\c#\1\argumentti\obj\Debug\argumentti.exe
+C:\temp\git\metropolia\c#\1\argumentti\obj\Debug\argumentti.pdb

@@ -1,0 +1,8 @@
+C:\temp\git\metropolia\c#\1\EsittelyJaAlustus\obj\Debug\EsittelyJaAlustus.csproj.AssemblyReference.cache
+C:\temp\git\metropolia\c#\1\EsittelyJaAlustus\obj\Debug\EsittelyJaAlustus.csproj.SuggestedBindingRedirects.cache
+C:\temp\git\metropolia\c#\1\EsittelyJaAlustus\obj\Debug\EsittelyJaAlustus.csproj.CoreCompileInputs.cache
+C:\temp\git\metropolia\c#\1\EsittelyJaAlustus\bin\Debug\EsittelyJaAlustus.exe.config
+C:\temp\git\metropolia\c#\1\EsittelyJaAlustus\bin\Debug\EsittelyJaAlustus.exe
+C:\temp\git\metropolia\c#\1\EsittelyJaAlustus\bin\Debug\EsittelyJaAlustus.pdb
+C:\temp\git\metropolia\c#\1\EsittelyJaAlustus\obj\Debug\EsittelyJaAlustus.exe
+C:\temp\git\metropolia\c#\1\EsittelyJaAlustus\obj\Debug\EsittelyJaAlustus.pdb

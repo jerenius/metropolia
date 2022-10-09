@@ -1,0 +1,8 @@
+C:\temp\git\metropolia\c#\1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\temp\git\metropolia\c#\1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\temp\git\metropolia\c#\1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\temp\git\metropolia\c#\1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\temp\git\metropolia\c#\1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\temp\git\metropolia\c#\1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\temp\git\metropolia\c#\1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\temp\git\metropolia\c#\1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
